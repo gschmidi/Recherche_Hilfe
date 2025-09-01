@@ -322,11 +322,6 @@ document.addEventListener('DOMContentLoaded', () => {
                     title: "PropTech Pulse – Ready for a stay that’s truly out of this world?",
                     embedUrl: "https://www.youtube.com/embeded/JCtijrXnq7g", 
                     description: "Aurum_PropTech"
-                },
-                {
-                    title: "Inside Virgin Galactic’s first tourist spaceflight",
-                    embedUrl: "https://www.youtube.com/embed/2V4VU8p6Au0", 
-                    description: "SkyNews"
                 }
 
             ],
@@ -362,16 +357,7 @@ document.addEventListener('DOMContentLoaded', () => {
         'type': 'twitter',
         'html': '<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Private space tourism is growing, making trips to orbit affordable. <a href="https://twitter.com/hashtag/SpaceTourism?src=hash&amp;ref_src=twsrc%5Etfw">#SpaceTourism</a> <a href="https://twitter.com/hashtag/FutureOfTravel?src=hash&amp;ref_src=twsrc%5Etfw">#FutureOfTravel</a></p>&mdash; Karen Vazquez (@KarenVazqu84161) <a href="https://twitter.com/KarenVazqu84161/status/1951069445247606926?ref_src=twsrc%5Etfw">July 31, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>'
     },
-    {
-        'type': 'twitter',
-        'html': '<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Tourism for successful people: the world&#39;s first space hotel will open as early as 2027.<br><br>Built by Above: Space Development, it will host 400 guests and 112 crew members on a rotating structure designed to create gravity similar to the moon.<br><br>The hotel will offer a full-service… <a href="https://t.co/A6Nr5VNW0u">pic.twitter.com/A6Nr5VNW0u</a></p>&mdash; Black Hole (@konstructivizm) <a href="https://twitter.com/konstructivizm/status/1936988331499483200?ref_src=twsrc%5Etfw">June 23, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>'
-    },
 
-
-    {
-        'type': 'twitter',
-        'html': '<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Private space tourism is growing, making trips to orbit affordable. <a href="https://twitter.com/hashtag/SpaceTourism?src=hash&amp;ref_src=twsrc%5Etfw">#SpaceTourism</a> <a href="https://twitter.com/hashtag/FutureOfTravel?src=hash&amp;ref_src=twsrc%5Etfw">#FutureOfTravel</a></p>&mdash; Karen Vazquez (@KarenVazqu84161) <a href="https://twitter.com/KarenVazqu84161/status/1951069445247606926?ref_src=twsrc%5Etfw">July 31, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>'
-    },
     {
         'type': 'twitter',
         'html': '<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Katy Perry says she now looks at Earth through a “whole new perspective” after traveling to space<br><br>She was in space for a total of 11 minutes <a href="https://t.co/3ErSeVJt3d">pic.twitter.com/3ErSeVJt3d</a></p>&mdash; Daily Noud (@DailyNoud) <a href="https://twitter.com/DailyNoud/status/1911819148755149176?ref_src=twsrc%5Etfw">April 14, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>'
@@ -409,7 +395,7 @@ document.addEventListener('DOMContentLoaded', () => {
             zeitungsartikel: [
                     {
         'title': " Auf dem Weg zu neuen Weltraumorten und der Nutzung dortiger kommerzieller Möglichkeiten – Eine realistische Zukunftsvision oder eine Vision, die kaum je Realität werden kann?",
-        'snippet': " Was ein weiteres Geschäft zu sein verspricht ist der Tourismus im erdnahen Bereich. Allein die Aussicht auf die Erde von außerhalb ist spektakulär. Aber kann man hier wirklich so viel erwarten? Der Preis für einen derartigen Trip wird voraussichtlich für viele Jahre und gar Jahrzehnte noch sehr hoch bleiben, da der Aufwand des Fluges, die Ernährung und die notwendigen Vorbereitungen der Touristen, sich im gravitationslosen Umfeld zu bewegen, auf absehbare Zeit extrem hoch bleiben werden. Noch immer kostet jedes Kilogramm, das die Erdanziehung überwinden muss, mehrere zehntausend Euro! Zudem sind Raketenstarts in den Weltraum bis heute keine Routineoperation, nicht zu vergleichen mit einem Flugzeugstart. Bei jedem Start bestehen immer noch signifikante Risiken.",
+        'snippet': "Was ein weiteres Geschäft zu sein verspricht ist der Tourismus im erdnahen Bereich. Allein die Aussicht auf die Erde von außerhalb ist spektakulär. Aber kann man hier wirklich so viel erwarten? Der Preis für einen derartigen Trip wird voraussichtlich für viele Jahre und gar Jahrzehnte noch sehr hoch bleiben, da der Aufwand des Fluges, die Ernährung und die notwendigen Vorbereitungen der Touristen, sich im gravitationslosen Umfeld zu bewegen, auf absehbare Zeit extrem hoch bleiben werden. Noch immer kostet jedes Kilogramm, das die Erdanziehung überwinden muss, mehrere zehntausend Euro! Zudem sind Raketenstarts in den Weltraum bis heute keine Routineoperation, nicht zu vergleichen mit einem Flugzeugstart. Bei jedem Start bestehen immer noch signifikante Risiken.",
         'link': "https://scilogs.spektrum.de/beobachtungen-der-wissenschaft/auf-dem-weg-zu-neuen-weltraumorten-und-der-nutzung-dortiger-kommerzieller-moeglichkeiten-eine-realistische-zukunftsvision-oder-eine-vision-die-kaum-je-realitaet-werden-kann/",
         'date': "04.08.2022",
         'readTime': "7 Minuten",
@@ -467,30 +453,13 @@ document.addEventListener('DOMContentLoaded', () => {
         'journal': "Astrodicticum Simplex"
     },
     {
-        'title': "Der hohe Preis des Weltraumtourismus",
-        'snippet': "Reiter bleibt in Bezug auf künftigen Weltraumtourismus aber zuversichtlich: „Unser Wunsch wäre es, dass möglichst viele Menschen eher heute als morgen die Gelegenheit bekommen, unseren schönen blauen Planeten von oben zu sehen“, so der ehemalige Astronaut. Wird der Faktor Nachhaltigkeit beim Weltraumtourismus mitgedacht, könnte er in Reiters Augen nämlich noch eine Sache bewirken: „Ein Bewusstsein für die Umwelt, für den Klimawandel und für die Schützenswürdigkeit unseres Planeten – das ist etwas, das man dort oben sehr eindringlich erlangen kann.“",
-        'link': "https://nationalgeographic.de/reise-und-abenteuer/2021/09/der-hohe-preis-des-weltraumtourismus/",
-        'date': "02.09.2021",
-        'readTime': "6 Minuten",
-        'journal': "National Geographic"
-    },
-    {
         'title': "Die Rolle des Weltraumtourismus in der modernen Raumfahrt",
         'snippet': "Der Weltraumtourismus spricht sowohl innere Antriebe wie Neugier und den Wunsch nach Ruhm an, als auch äußere Reize wie die Aussicht auf die Erde aus dem All und das Gefühl der Schwerelosigkeit. Diese Kombination aus inneren und äußeren Faktoren macht den Reiz des Weltraumtourismus aus.",
         'link': "https://www.it-boltwise.de/die-rolle-des-weltraumtourismus-in-der-modernen-raumfahrt.html",
         'date': "19.05.2025",
         'readTime': "3 Minuten",
         'journal': "IT BOLTWISE"
-    },
-    {
-        'title': "Urlaub im All?",
-        'snippet': "Reisewarnungen und geschlossene Grenzen – nicht erst seit der Coronapandemie klingt die Vorstellung verlockend, einmal alles auf der Erde hinter sich lassen zu können. Doch wie realistisch ist Space Tourism? ÖAW-Weltraumexperte Günter Kargl erzählt im Interview, wo die Weltraumreise derzeit hingeht – und warum Ferien am Mond Zukunftsmusik bleiben werden.",
-        'link': "https://www.oeaw.ac.at/news/urlaub-im-all",
-        'date': "28.09.2020",
-        'readTime': "3 Minuten",
-        'journal': "Österreichische Akademie der Wissenschaften"
     }
-
             ],
             chatbot: [] 
         },
